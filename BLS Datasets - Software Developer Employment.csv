@@ -1,0 +1,12 @@
+Year,Occupation Title,Level,Employment,Employment RSE (Percent),Employment per 1000 jobs,Location Quotient,Median Hourly Wage,Mean Hourly Wage,Annual Mean Wage,Mean Wage RSE (Percent)
+2014,Software Developer,detail,"33,990",10.1,34.917,6.87,66.21,68.45,"142,370.00",4.6
+2015,Software Developer,detail,"42,650",17.7,42.156,7.77,67.90,70.78,"147,220.00",4.5
+2016,Software Developer,detail,"41,490",9,39.689,7.02,62.28,63.95,"133,010.00",2.5
+2017,Software Developer,detail,"48,750",5,44.767,7.51,61.16,63.55,"132,170.00",1.6
+2018,Software Developer,detail,"50,440",4.8,45.070,7.22,61.25,63.33,"131,720.00",1.6
+2019,Software Developers,detail,"81,950",4.4,71.833,7.50,68.05,70.06,"145,730.00",1.2
+2020,Software Developers,detail,"77,900",9.8,70.625,6.65,75.30,75.71,"157,480.00",1.6
+2021,Software Developers,detail,"67,780",2.4,63.427,6.55,79.34,80.49,"167,420.00",0.8
+2022,Software Developers,detail,"83,860",1.9,74.674,7.20,92.86,112.76,"234,540.00",1.6
+2023,Software Developers,detail,"96,590",1.5,84.597,7.75,95.72,96.06,"199,800.00",0.3
+2024,Software Developers,detail,"90,280",1.4,79.565,7.42,109.00,108.90,"226,510.00",1.7
